@@ -4,3 +4,4 @@ php:
     - /home/tiago/web/:/var/www/html/
   environment:
     XDEBUG_CONFIG: remote_host=192.168.1.36
+  container_name: php7

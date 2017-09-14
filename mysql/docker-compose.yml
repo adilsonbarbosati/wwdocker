@@ -4,3 +4,4 @@ mysql:
     MYSQL_ROOT_PASSWORD: root
   volumes:
     - ./dumps/:/var/lib/opt/dumps
+  container_name: mysql5.7
