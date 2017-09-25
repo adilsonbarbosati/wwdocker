@@ -19,3 +19,8 @@ Executar `docker ps` -  para listar os containers ativos
 Executar `docker exec -it mysql5.6 bash` - para acessar o container
  
 Executar `mysql -u root -p` - para acessar o mysql
+
+
+Creditos: Tiago Farias
+
+tiagofarias.xtf@gmail.com
